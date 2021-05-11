@@ -1,0 +1,16 @@
+table {
+    background-color: blueviolet;
+}
+td input {
+    width: 90px;
+    height: 90px;
+    font-size: 70px;
+}
+th input{
+    width: 360px;
+    height: 90px;
+    font-size: 50px;
+}
+th{
+    font-size: 30px;
+}
